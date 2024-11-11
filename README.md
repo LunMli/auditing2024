@@ -12,6 +12,17 @@
     - 特定非公務機關資通安全維護計畫稽核辦法
     - [資通安全情資分享辦法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030307)
     - 公務機關所屬人員資通安全事項獎懲辦法
+# 資通安全實地稽核項目檢核表
+- [資通安全實地稽核項目檢核表(適用公務機關)](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/aTKJ2Lhdj59FPT6)
+## 策略面
+- 一、核心業務及其重要性
+- 二、資通安全政策及推動組織
+- 三、專責人力及經費配置
+
+## 管理面
+
+## 技術面
+
 
 # 重要資料
 - [範本文件](https://moda.gov.tw/ACS/laws/documents/680)
