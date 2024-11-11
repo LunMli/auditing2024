@@ -1,17 +1,6 @@
 # 資安稽核2024
+- [第2單元資通安全管理法及其子法相關法遵規定](法遵規定.md)
 
-- 第2單元資通安全管理法及其子法相關法遵規定 [資安署|資通安全管理法及子法](https://moda.gov.tw/ACS/laws/regulations/624)
-  - [資通安全管理法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030297)
-    - [資安法常見問題](https://moda.gov.tw/ACS/laws/faq/630) 
-  - 子法
-    - 資通安全管理法施行細則
-    - 資通安全責任等級分級辦法
-      - 應辦事項
-      - 附表十:資安防護基準 
-    - 資通安全事件通報及應變辦法
-    - 特定非公務機關資通安全維護計畫稽核辦法
-    - [資通安全情資分享辦法](https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=A0030307)
-    - 公務機關所屬人員資通安全事項獎懲辦法
 # 資通安全實地稽核項目檢核表
 - [資通安全實地稽核項目檢核表(適用公務機關)](https://www-api.moda.gov.tw/File/Get/acs/zh-tw/aTKJ2Lhdj59FPT6)
 ## 策略面
