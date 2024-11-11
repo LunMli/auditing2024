@@ -1,4 +1,4 @@
-# auditting2024
+# 資安稽核2024
 
 - 第2單元資通安全管理法及其子法相關法遵規定 [資安署|資通安全管理法及子法](https://moda.gov.tw/ACS/laws/regulations/624)
   - 資通安全管理法
